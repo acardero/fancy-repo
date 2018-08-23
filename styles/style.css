@@ -1,0 +1,43 @@
+* {
+    font-family: 'Montserrat';
+}
+
+
+
+.my-first-class img {
+    width: 200px;
+    float: left;
+    margin-top: 10%;
+    border: 5px solid white;
+    border-radius: 20px;
+
+}
+
+.my-first-class h2 {
+    text-align: center;
+}
+
+.my-first-class p {
+    text-align: center;
+}
+
+body {
+    margin: 2% 5%;
+    border: 2px solid grey;
+}
+
+.my-first-class {
+    /* clear: both; */
+    overflow: hidden;
+    margin: 0 10%;
+}
+
+
+header {
+    background-image: url('../images/belgrade.jpg');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    height: 350px;
+    color: white;
+}
+
